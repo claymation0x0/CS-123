@@ -1,3 +1,3 @@
 # CS-123
 
-TODO: Project for systems
+TODO: Project for iOS systems breakdown.
